@@ -1,0 +1,119 @@
+Numéroatomique,Symbolechimique,Nom,Famille,Configurationelectronique
+1,H,Hydrogène,Non-métal,1s1
+2,He,Hélium,Gaz noble,1s2
+3,Li,Lithium,Métal alcalin,[He] 2s1
+4,Be,Béryllium,Métal alcalino-terreux,[He] 2s2
+5,B,Bore,Métalloïde,[He] 2s2 2p1
+6,C,Carbone,Non-métal,[He] 2s2 2p2
+7,N,Azote,Non-métal,[He] 2s2 2p3
+8,O,Oxygène,Non-métal,[He] 2s2 2p4
+9,F,Fluor,Halogène,[He] 2s2 2p5
+10,Ne,Néon,Gaz noble,[He] 2s2 2p6
+11,Na,Sodium,Métal alcalin,[Ne] 3s1
+12,Mg,Magnésium,Métal alcalino-terreux,[Ne] 3s2
+13,Al,Aluminium,Métal pauvre,[Ne] 3s2 3p1
+14,Si,Silicium,Métalloïde,[Ne] 3s2 3p2
+15,P,Phosphore,Non-métal,[Ne] 3s2 3p3
+16,S,Soufre,Non-métal,[Ne] 3s2 3p4
+17,Cl,Chlore,Halogène,[Ne] 3s2 3p5
+18,Ar,Argon,Gaz noble,[Ne] 3s2 3p6
+19,K,Potassium,Métal alcalin,[Ar] 4s1
+20,Ca,Calcium,Métal alcalino-terreux,[Ar] 4s2
+21,Sc,Scandium,Métal de transition,[Ar] 4s2 3d1
+22,Ti,Titane,Métal de transition,[Ar] 4s2 3d2
+23,V,Vanadium,Métal de transition,[Ar] 4s2 3d3
+24,Cr,Chrome,Métal de transition,[Ar] 4s1 3d5
+25,Mn,Manganèse,Métal de transition,[Ar] 4s2 3d5
+26,Fe,Fer,Métal de transition,[Ar] 4s2 3d6
+27,Co,Cobalt,Métal de transition,[Ar] 4s2 3d7
+28,Ni,Nickel,Métal de transition,[Ar] 4s2 3d8 ou 4s1 3d9b
+29,Cu,Cuivre,Métal de transition,[Ar] 4s1 3d10
+30,Zn,Zinc,Métal pauvre,[Ar] 4s2 3d10
+31,Ga,Gallium,Métal pauvre,[Ar] 4s2 3d10 4p1
+32,Ge,Germanium,Métalloïde,[Ar] 4s2 3d10 4p2
+33,As,Arsenic,Métalloïde,[Ar] 4s2 3d10 4p3
+34,Se,Sélénium,Non-métal,[Ar] 4s2 3d10 4p4
+35,Br,Brome,Halogène,[Ar] 4s2 3d10 4p5
+36,Kr,Krypton,Gaz noble,[Ar] 4s2 3d10 4p6
+37,Rb,Rubidium,Métal alcalin,[Kr] 5s1
+38,Sr,Strontium,Métal alcalino-terreux,[Kr] 5s2
+39,Y,Yttrium,Métal de transition,[Kr] 5s2 4d1
+40,Zr,Zirconium,Métal de transition,[Kr] 5s2 4d2
+41,Nb,Niobium,Métal de transition,[Kr] 5s1 4d4
+42,Mo,Molybdène,Métal de transition,[Kr] 5s1 4d5
+43,Tc,Technétium,Métal de transition,[Kr] 5s2 4d5
+44,Ru,Ruthénium,Métal de transition,[Kr] 5s1 4d7
+45,Rh,Rhodium,Métal de transition,[Kr] 5s1 4d8
+46,Pd,Palladium,Métal de transition,[Kr] 4d10
+47,Ag,Argent,Métal de transition,[Kr] 5s1 4d10
+48,Cd,Cadmium,Métal pauvre,[Kr] 5s2 4d10
+49,In,Indium,Métal pauvre,[Kr] 5s2 4d10 5p1
+50,Sn,Étain,Métal pauvre,[Kr] 5s2 4d10 5p2
+51,Sb,Antimoine,Métalloïde,[Kr] 5s2 4d10 5p3
+52,Te,Tellure,Métalloïde,[Kr] 5s2 4d10 5p4
+53,I,Iode,Halogène,[Kr] 5s2 4d10 5p5
+54,Xe,Xénon,Gaz noble,[Kr] 5s2 4d10 5p6
+55,Cs,Césium,Métal alcalin,[Xe] 6s1
+56,Ba,Baryum,Métal alcalino-terreux,[Xe] 6s2
+57,La,Lanthane,Lanthanide,[Xe] 6s2 5d1
+58,Ce,Cérium,Lanthanide,[Xe] 6s2 4f1 5d1
+59,Pr,Praséodyme,Lanthanide,[Xe] 6s2 4f3
+60,Nd,Néodyme,Lanthanide,[Xe] 6s2 4f4
+61,Pm,Prométhium,Lanthanide,[Xe] 6s2 4f5
+62,Sm,Samarium,Lanthanide,[Xe] 6s2 4f6
+63,Eu,Europium,Lanthanide,[Xe] 6s2 4f7
+64,Gd,Gadolinium,Lanthanide,[Xe] 6s2 4f7 5d1
+65,Tb,Terbium,Lanthanide,[Xe] 6s2 4f9
+66,Dy,Dysprosium,Lanthanide,[Xe] 6s2 4f10
+67,Ho,Holmium,Lanthanide,[Xe] 6s2 4f11
+68,Er,Erbium,Lanthanide,[Xe] 6s2 4f12
+69,Tm,Thulium,Lanthanide,[Xe] 6s2 4f13
+70,Yb,Ytterbium,Lanthanide,[Xe] 6s2 4f14
+71,Lu,Lutécium,Lanthanide,[Xe] 6s2 4f14 5d1
+72,Hf,Hafnium,Métal de transition,[Xe] 6s2 4f14 5d2
+73,Ta,Tantale,Métal de transition,[Xe] 6s2 4f14 5d3
+74,W,Tungstène,Métal de transition,[Xe] 6s2 4f14 5d4
+75,Re,Rhénium,Métal de transition,[Xe] 6s2 4f14 5d5
+76,Os,Osmium,Métal de transition,[Xe] 6s2 4f14 5d6
+77,Ir,Iridium,Métal de transition,[Xe] 6s2 4f14 5d7
+78,Pt,Platine,Métal de transition,[Xe] 6s1 4f14 5d9
+79,Au,Or,Métal de transition,[Xe] 6s1 4f14 5d10
+80,Hg,Mercure,Métal pauvre,[Xe] 6s2 4f14 5d10
+81,Tl,Thallium,Métal pauvre,[Xe] 6s2 4f14 5d10 6p1
+82,Pb,Plomb,Métal pauvre,[Xe] 6s2 4f14 5d10 6p2
+83,Bi,Bismuth,Métal pauvre,[Xe] 6s2 4f14 5d10 6p3
+84,Po,Polonium,Métal pauvre,[Xe] 6s2 4f14 5d10 6p4
+85,At,Astate,Métalloïde,[Xe] 6s2 4f14 5d10 6p5
+86,Rn,Radon,Gaz noble,[Xe] 6s2 4f14 5d10 6p6
+87,Fr,Francium,Métal alcalin,[Rn] 7s1
+88,Ra,Radium,Métal alcalino-terreux,[Rn] 7s2
+89,Ac,Actinium,Actinide,[Rn] 7s2 6d1
+90,Th,Thorium,Actinide,[Rn] 7s2 6d2
+91,Pa,Protactinium,Actinide,[Rn] 7s2 5f2 6d1
+92,U,Uranium,Actinide,[Rn] 7s2 5f3 6d1
+93,Np,Neptunium,Actinide,[Rn] 7s2 5f4 6d1
+94,Pu,Plutonium,Actinide,[Rn] 7s2 5f6
+95,Am,Américium,Actinide,[Rn] 7s2 5f7
+96,Cm,Curium,Actinide,[Rn] 7s2 5f7 6d1
+97,Bk,Berkélium,Actinide,[Rn] 7s2 5f9
+98,Cf,Californium,Actinide,[Rn] 7s2 5f10
+99,Es,Einsteinium,Actinide,[Rn] 7s2 5f11
+100,Fm,Fermium,Actinide,[Rn] 7s2 5f12
+101,Md,Mendélévium,Actinide,[Rn] 7s2 5f13
+102,No,Nobélium,Actinide,[Rn] 7s2 5f14
+103,Lr,Lawrencium,Actinide,[Rn] 7s2 5f14 7p1
+104,Rf,Rutherfordium,Métal de transition,[Rn] 7s2 5f14 6d2
+105,Db,Dubnium,Métal de transition,[Rn] 7s2 5f14 6d3
+106,Sg,Seaborgium,Métal de transition,[Rn] 7s2 5f14 6d4
+107,Bh,Bohrium,Métal de transition,[Rn] 7s2 5f14 6d5
+108,Hs,Hassium,Métal de transition,[Rn] 7s2 5f14 6d6
+109,Mt,Meitnerium,Indéterminée,[Rn] 7s2 5f14 6d7
+110,Ds,Darmstadtium,Indéterminée,[Rn] 7s2 5f14 6d8
+111,Rg,Roentgenium,Indéterminée,[Rn] 7s2 5f14 6d9
+112,Cn,Copernicium,Métal de transition,[Rn] 7s2 5f14 6d10
+113,Nh,Nihonium,Indéterminée,[Rn] 7s2 5f14 6d10 7p1
+114,Fl,Flérovium,Indéterminée,[Rn] 7s2 5f14 6d10 7p2
+115,Mc,Moscovium,Indéterminée,[Rn] 7s2 5f14 6d10 7p3
+116,Lv,Livermorium,Indéterminée,[Rn] 7s2 5f14 6d10 7p4
+117,Ts,Tennesse,Indéterminée,[Rn] 7s2 5f14 6d10 7p5
+118,Og,Oganesson,Indéterminée,[Rn] 7s2 5f14 6d10 7p6

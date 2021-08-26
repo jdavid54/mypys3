@@ -8,7 +8,7 @@ with open('/home/pi/Desktop/elements.csv', newline='') as csvfile:
     for row in spamreader:
         print(', '.join(row))
         
-data = pd.read_csv('/home/pi/Desktop/elements.csv').reset_index()
+data = pd.read_csv('elements.csv').reset_index()
 data['index'] = 118-data['index'].astype('int32')
 pd.to_numeric(data['Pointdefusion'])
 pd.to_numeric(data['Pointébullition'])
@@ -17,7 +17,7 @@ print(data.info())
 num = 6
 print(data.loc[num])
 
-data2 = pd.read_csv('/home/pi/Desktop/elements_configelectronique.csv') #.reset_index()
+data2 = pd.read_csv('elements_configelectronique.csv') #.reset_index()
 
 elements = pd.merge(data, data2, how='left', on='Numéroatomique')
 elements.info()
