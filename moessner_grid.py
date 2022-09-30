@@ -1,5 +1,6 @@
 import numpy as np
 
+
 moessner2 = [i for n,i in enumerate(range(1,50)) if (n+1)%2!=0]
 print(moessner2)
 print(np.cumsum(moessner2))
