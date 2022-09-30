@@ -12,10 +12,6 @@ debug = False
 # locked with onecall
 API_Key = 'edffd1bf975a74d5d10e58c5ac8be2d3'
 
-# my API keys
-# API_Key = 'c9d926a9549ae7933324ef26e13bb200'
-# API_Key = '56040ff66d50184c81a4df3a770657e3'
-
 #city = input('Enter city name :')
 city = 'gagny'
 base_url = 'http://api.openweathermap.org/data/2.5/weather?appid='+API_Key+'&q='+city
