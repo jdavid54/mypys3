@@ -1,0 +1,23 @@
+﻿Nom de la planète,Mercure,Vénus,Terre,Mars,Jupiter,Saturne,Uranus,Neptune,Pluton
+Nombre de satellites, 0, 0, 1, 2, 79, 85, 27, 13, 5 
+Demi-grand axe en unités astronomiques,0.3870983,0.7233298,1.0000010,1.5236793,5.202603,9.554909,19.21845,30.11039,39.54470 
+Demi-grand axe en millions de km,57.909083,108.2086,149.5980,227.9392,778.2983,1429.394,2875.039,4504.450,5915.803 
+Excentricité de l'orbite,0.20563,0.00677,0.01671,0.09340,0.04850,0.05555,0.04638,0.00946,0.2490
+Inclinaison de l'orbite sur l'écliptique,7.0050,3.3947,0,1.8497,1.3033,2.4889,0.7732,1.7700,17.1422
+Inclinaison de l'équateur sur l'écliptique,0.01,177.36,23.44,25.19,3.13,26.73,97.86,28.31,122.52
+Période de révolution sidérale,87.9693 jr,224.701 jr,365.256 jr,1 an et 321.730 jr,11 ans et 314.84 jr,29 ans et 166.98 jr,84 ans et 7.48 jr,164 ans et 281.3 jr,247 ans et 362 jr
+Période de rotation,58.65 jr,243.02 jr,23.935 h,24.62 h,9.92 h,10.66 h,17.24 h,16.11 h,6.39 jr
+Diamètre apparent équatorial maximal,13.0,65.4,25.7,50.1,20.8,4.1,2.11,0.1
+Diamètre équatorial (Terre=1),0.3825,0.9488,1,0.5326,11.2089,9.4335,4.0073,3.8826,0.1874 
+Diamètre équatorial en km,4879.4,12103.6,12756.28,6794,142984,120536,51118,49528,2390
+Aplatissement,0,0,1/298.257,1/154,1/15.4,1/10.2,1/44,1/59,0
+Volume(Terre=1),0.056,0.85,1,0.15,1317,757,62.9,57.5,0.007
+Masse(Soleil=1),1/6023600,1/408523.71,1/332946.05,1/3098708,1/1047.5654,1/3498.77,1/22905.35,1/19416.3,1.56.10-8
+Masse(Terre=1),0.055,0.815,1,0.107,317.83,95.16,14.54,17.15,0.0021 
+Masse(kg),3.3018e23,4.8685e24,5.9736e24,6.4185e23,1.8986e27,5.6846e26,8.6831e25,1.0243e26,1.238e22
+Masse(kg)planète+satellites,3.3018e23,4.8685e24,6.0471e24,6.4185e23,1.899e27,5.686e26,8.684e25,1.0246e26,1.432e22
+Densité(Terre=1),0.984,0.95,1,0.71,0.24,0.125,0.23,0.30,0.31 
+Densité(Eau=1),5.43,5.24,5.515,3.93,1.33,0.69,1.27,1.64,1.73 
+Pesanteur à la surface (Terre=1),0.38,0.90,1,0.38,2.53,1.07,0.90,1.14,0.06 
+Diamètre apparent du Soleil vu de la planète,1 23',44',32',21',6',3' 21",1' 40",1',49
+Magnitude du Soleil vu de la planète,-28.9,-27.5,-26.8,-25.9,-23.2,-21.9,-20.4,-19.4,-18.8
